@@ -1,0 +1,26 @@
+{
+  "name": "minecraft-netease-server-website",
+  "version": "1.0.0",
+  "description": "星烬玩家联盟 - 我的世界网易版租赁服网站",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "minecraft",
+    "netease",
+    "server",
+    "website"
+  ],
+  "author": "星烬玩家联盟",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "private": true
+}
